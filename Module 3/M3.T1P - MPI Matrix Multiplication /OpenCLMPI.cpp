@@ -1,6 +1,4 @@
-Certainly! Here's the code with added comments:
 
-```cpp
 #include<mpi.h>
 #include<stdlib.h>
 #include<stdio.h>
@@ -253,4 +251,3 @@ cl_device_id createDevice() {
 
     return dev;
 }
-```
